@@ -1,4 +1,0 @@
-lionheart
-=========
-
-People Application
